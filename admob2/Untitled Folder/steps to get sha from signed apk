@@ -1,0 +1,5 @@
+
+1. First extract apk 
+2. copy META-INF folder on desktop
+3. get CERT.RSA path and run following command
+4. keytool -printcert -file /home/deepakgupta/Desktop/META-INF/CERT.RSA
